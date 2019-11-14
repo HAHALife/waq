@@ -1,2 +1,2 @@
-# waq
-computer1
+# computer
+waq
